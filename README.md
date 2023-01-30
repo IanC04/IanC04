@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IanThaNoob
+- 👋 Hi, I’m @IanC04
 - 👀 I’m interested in ... Coding and 🏀
 - 🌱 I’m currently learning ... Programming
 - 💞️ I’m looking to collaborate on ... Simple projects for interesting things.
