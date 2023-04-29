@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Coding and 🏀
 - 🌱 I’m currently learning ... Programming
 - 💞️ I’m looking to collaborate on ... Simple projects for interesting things.
-- 📫 How to reach me ... https://www.instagram.com/i_a_n_c_h_e_n/
+- 📫 How to reach me ... https://www.linkedin.com/in/ianchencs/
 
 <!---
 IanThaNoob/IanThaNoob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
