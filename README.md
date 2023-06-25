@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IanC04
-- 👀 I’m interested in ... Coding and 🏀
-- 🌱 I’m currently learning ... Programming
-- 💞️ I’m looking to collaborate on ... Simple projects for interesting things.
+- 👀 I’m interested in ... Coding, Natural Phenomena, and 🏀
+- 🌱 I’m currently learning ... Programming and Math
+- 💞️ I’m looking to collaborate on ... Projects that enhance daily life
 - 📫 How to reach me ... https://www.linkedin.com/in/ianchencs/
 
 <!---
