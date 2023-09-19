@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IanC04
-- 👀 I’m interested in ... Coding, Natural Phenomena, and 🏀
+- 👀 I’m interested in ... Coding, Nature, and Sports
 - 🌱 I’m currently learning ... Programming and Math
 - 💞️ I’m looking to collaborate on ... Projects that enhance daily life
 - 📫 How to reach me ... https://www.linkedin.com/in/ianchencs/
