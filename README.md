@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @IanC04
-- 👀 I’m interested in ... Coding, Games, and Sports
-- 🌱 I’m currently learning ... Programming and Math
+- 👋 Hi, I’m Ian
+- 👀 I’m interested in ... Coding, Games, Outdoors, and Sports
+- 🌱 I’m currently learning ... Programming, AI, and Math
 - 💞️ I’m looking to collaborate on ... Projects that improve daily life
 - 📫 How to reach me ... https://www.linkedin.com/in/ianchencs/
 
